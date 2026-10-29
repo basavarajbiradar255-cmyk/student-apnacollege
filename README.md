@@ -1,2 +1,1 @@
-# student-apnacollege
-This is my first Git Repository Author-Shardha (Apna college)
+I am learning Git and GitHub.
